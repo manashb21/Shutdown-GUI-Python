@@ -1,0 +1,6 @@
+This simple program shows the use of GUI package called Tkinter and use of OS processes.
+
+I have made a simple GUI with four buttons. (Restart, Restart with Time, Logout, Shutdown)
+
+Tkinter docs are available online and are really simple to use. 
+There is a slight use of OS processes which can be easily understood.
